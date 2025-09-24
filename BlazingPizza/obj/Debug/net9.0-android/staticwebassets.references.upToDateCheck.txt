@@ -1,0 +1,3 @@
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\staticwebassets.build.json

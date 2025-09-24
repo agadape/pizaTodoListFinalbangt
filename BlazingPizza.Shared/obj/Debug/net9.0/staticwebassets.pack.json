@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazingPizza.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazingPizza.Shared.6ceod0zp85.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-300.woff",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-300.woff2",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-500.woff",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-500.woff2",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-700.woff",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-700.woff2",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-regular.woff",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand-v8-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\font\\quicksand-v8-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\font\\quicksand.css",
+      "PackagePath": "staticwebassets\\font\\quicksand.css"
+    },
+    {
+      "Id": "C:\\Users\\Advan\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.Shared\\wwwroot\\site.css",
+      "PackagePath": "staticwebassets\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazingPizza.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazingPizza.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BlazingPizza.Shared.props",
+      "PackagePath": "build\\BlazingPizza.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazingPizza.Shared.props",
+      "PackagePath": "buildMultiTargeting\\BlazingPizza.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BlazingPizza.Shared.props",
+      "PackagePath": "buildTransitive\\BlazingPizza.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
