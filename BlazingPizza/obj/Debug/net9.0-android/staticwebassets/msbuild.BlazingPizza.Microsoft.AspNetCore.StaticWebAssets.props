@@ -32,12 +32,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>jpcdbyqdfg</Fingerprint>
-      <Integrity>aetSKmS0utf9b4/ipuZkvaCyppD+XzPhzDSS2ALd/mI=</Integrity>
+      <Fingerprint>aorw71z7mz</Fingerprint>
+      <Integrity>Gk8aX+1tRutI/XcjadO5lr8yZ9IiWDtYi+Tqk/PGgmg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>89</FileLength>
-      <LastWriteTime>Wed, 24 Sep 2025 14:23:04 GMT</LastWriteTime>
+      <LastWriteTime>Fri, 26 Sep 2025 14:07:24 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazingPizza.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bacon.jpg'))">

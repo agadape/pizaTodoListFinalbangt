@@ -621,3 +621,4 @@ C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza\bin\Debug\net
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\BlazingPizza.Shared\BlazingPizza.Shared.6ceod0zp85.bundle.scp.css
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\gz722pwpf3-aorw71z7mz.gz
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\gz722pwpf3-aorw71z7mz.br
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\BlazingPizza.sourcelink.json

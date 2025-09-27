@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"obgb1x923p"},{"Name":"integrity","Value":"sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="},{"Name":"label","Value":"app.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"416"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Sep 2025 14:21:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="BlazingPizza.jpcdbyqdfg.styles.css">
+    <StaticWebAssetEndpoint Include="BlazingPizza.aorw71z7mz.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazingPizza.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jpcdbyqdfg"},{"Name":"integrity","Value":"sha256-aetSKmS0utf9b4/ipuZkvaCyppD\u002BXzPhzDSS2ALd/mI="},{"Name":"label","Value":"BlazingPizza.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"89"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aetSKmS0utf9b4/ipuZkvaCyppD\u002BXzPhzDSS2ALd/mI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Sep 2025 14:23:04 GMT"},{"Name":"Link","Value":"\u003C_content/BlazingPizza.Shared/BlazingPizza.Shared.2sfj50mr0q.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aorw71z7mz"},{"Name":"integrity","Value":"sha256-Gk8aX\u002B1tRutI/XcjadO5lr8yZ9IiWDtYi\u002BTqk/PGgmg="},{"Name":"label","Value":"BlazingPizza.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"89"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gk8aX\u002B1tRutI/XcjadO5lr8yZ9IiWDtYi\u002BTqk/PGgmg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 26 Sep 2025 14:07:24 GMT"},{"Name":"Link","Value":"\u003C_content/BlazingPizza.Shared/BlazingPizza.Shared.6ceod0zp85.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="BlazingPizza.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazingPizza.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aetSKmS0utf9b4/ipuZkvaCyppD\u002BXzPhzDSS2ALd/mI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"89"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aetSKmS0utf9b4/ipuZkvaCyppD\u002BXzPhzDSS2ALd/mI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Sep 2025 14:23:04 GMT"},{"Name":"Link","Value":"\u003C_content/BlazingPizza.Shared/BlazingPizza.Shared.2sfj50mr0q.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gk8aX\u002B1tRutI/XcjadO5lr8yZ9IiWDtYi\u002BTqk/PGgmg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"89"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gk8aX\u002B1tRutI/XcjadO5lr8yZ9IiWDtYi\u002BTqk/PGgmg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 26 Sep 2025 14:07:24 GMT"},{"Name":"Link","Value":"\u003C_content/BlazingPizza.Shared/BlazingPizza.Shared.6ceod0zp85.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="img/bacon.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bacon.jpg'))</AssetFile>

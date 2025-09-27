@@ -38,3 +38,4 @@ C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\De
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\compressed\698hzul9hg-dwbcrqsr35.gz
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\compressed\i7cawtce6b-6ceod0zp85.gz
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\compressed\vp367ny3hi-6ceod0zp85.gz
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Shared\obj\Debug\net9.0\BlazingPizza.Shared.sourcelink.json

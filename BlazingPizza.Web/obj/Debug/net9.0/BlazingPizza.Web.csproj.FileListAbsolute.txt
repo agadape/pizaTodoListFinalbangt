@@ -60,7 +60,6 @@ C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\scopedcss\bundle\BlazingPizza.Web.styles.css
-C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\compressed\ld9v6p6p3t-jpcdbyqdfg.gz
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\staticwebassets.development.json
@@ -72,3 +71,5 @@ C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\BlazingPizza.Web.pdb
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\BlazingPizza.Web.genruntimeconfig.cache
 C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\ref\BlazingPizza.Web.dll
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\BlazingPizza.Web.sourcelink.json
+C:\Users\Advan\source\repos\BlazingPizza\BlazingPizza\BlazingPizza.Web\obj\Debug\net9.0\compressed\ld9v6p6p3t-aorw71z7mz.gz
